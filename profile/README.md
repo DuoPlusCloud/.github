@@ -1,7 +1,7 @@
 ### DuoPlus
 
-1st Antidetect Phone
+1st Antidetect Phone. The best antidetect cloud phone for Multi-Accounts, product by AdsPower.
 
-Antidetect Cloud Phone for Multi-Accounts
-
-Official: [www.duoplus.net](https://www.duoplus.net/)
+- Official: https://www.duoplus.net
+- Help Center: https://help.duoplus.net
+- Dashboard: https://my.duoplus.net
